@@ -9,8 +9,8 @@ import dynamic from "next/dynamic";
 import { ToastProvider } from "@/components/providers/ToastProvider";
 
 export const metadata: Metadata = {
-  title: "World Republic",
-  description: "The home of global democracy",
+  title: "Bonoros Coins",
+  description: "Taokey?",
 };
 
 // Add type for language parameter
